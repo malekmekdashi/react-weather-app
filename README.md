@@ -13,7 +13,7 @@
   * [Credits](#credits)
   
   ## Description
-  This is a weather forecast which allows a user to input a city anywhere around the world and it will return with a forecast for the day. This application uses the OpenWeather One Call API to retrieve its data. If you'd like to clone the respository and test it, you can do so by cloning the repository, downloading the necessary packages using --npm install from the terminal, and from there you can input --npm run start-- to begin the build and deployment.
+  This is a weather forecast which allows a user to input a city anywhere around the world and it will return with a forecast for the day. This application uses the OpenWeather One Call API to retrieve its data. If you'd like to clone the respository and test it, you can do so by cloning the repository, downloading the necessary packages using `npm install` from the terminal, and from there you can input `npm run start` to begin the build and deployment.
   
   ## Licenses
     This project uses MIT license to cover it. For more infmoration, click on the license.
