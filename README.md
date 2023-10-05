@@ -5,10 +5,6 @@
   ## Table of Contents
   * [Description](#description)
   * [Licenses](#licenses)
-  * [Contributions](#contributions)
-  * [Installation Instructions](#installation)
-  * [Usage](#usage)
-  * [Test](#test)
   * [Contact Information](#Contact-Information)
   * [Credits](#credits)
   
@@ -17,17 +13,6 @@
   
   ## Licenses
     This project uses MIT license to cover it. For more infmoration, click on the license.
-
-  ## Contributions
-  
-
-  ## Installation Instructions
-  
-
-  ## Usage
-  
-
-  ## Test
   
 
   ## Contact Information
